@@ -6,3 +6,8 @@ I initially developed this example using the Swing framework, to then later upda
 
 The program allows one to select and import an image from the file menu, to which a JPanel pops up displaying the converted image in asci (While also printing a copy). It achieves this by using three methods, Convert, PositiveString, and Negative String. 
     Although this isn’t how I originally intended to design this program, I learned quite a lot about JavaFX, FXML, and implementing buttons/UI elements. 
+
+
+
+
+Note:Names withheld on source files. 
